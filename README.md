@@ -1,5 +1,5 @@
 # Easy.Messaging library
-![Nuget](https://img.shields.io/nuget/v/Easy.Messaging?style=plastic)
+![Nuget](https://img.shields.io/nuget/v/Easy.Messaging?style=plastic) [![CodeFactor](https://www.codefactor.io/repository/github/mbiomee/easy.messaging/badge)](https://www.codefactor.io/repository/github/mbiomee/easy.messaging)
 
 This library contains helper-classes for working with message brokers . It contains the following items:
 
