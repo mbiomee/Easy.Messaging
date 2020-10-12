@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     /// <summary>
     /// RabbitMQ implementation of the MessagePublisher.

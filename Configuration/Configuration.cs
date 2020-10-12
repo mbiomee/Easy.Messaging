@@ -3,7 +3,7 @@ using System.Text;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Biomee.Infra.Messaging.Configuration
+namespace Easy.Messaging.Configuration
 {
     public static class Configuration
     {

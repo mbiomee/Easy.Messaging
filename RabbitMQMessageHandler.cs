@@ -7,7 +7,7 @@ using Polly;
 using Serilog;
 using System.Collections.Generic;
 
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     public class RabbitMQMessageHandler : IMessageHandler
     {

@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     public interface IMessagePublisher
     {

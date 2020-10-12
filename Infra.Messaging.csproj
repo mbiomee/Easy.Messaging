@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <RootNamespace>Biomee.Infra.Messaging</RootNamespace>
-    <PackageId>Infra.Message</PackageId>
+    <RootNamespace>Easy.Messaging</RootNamespace>
+    <PackageId>Easy.Messaging</PackageId>
     <Version>1.0.1</Version>
-    <Title>Infra.Message</Title>
+    <Title>Easy.Messaging</Title>
     <Description>Infrastructure package for distrbuted application that contains helpers for interacting with RabbitMq and Kafka message-brokers</Description>
     <Authors>Mostafa Biomee</Authors>
-    <PackageProjectUrl>https://github.com/mbiomee/Infra.Messaging/tree/master</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/mbiomee/Easy.Messaging/tree/master</PackageProjectUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     
   </PropertyGroup>

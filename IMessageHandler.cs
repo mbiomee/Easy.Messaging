@@ -1,4 +1,4 @@
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     public interface IMessageHandler
     {

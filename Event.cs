@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     public class Event : Message
     {

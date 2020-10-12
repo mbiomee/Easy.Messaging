@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace Biomee.Infra.Messaging.Configuration
+namespace Easy.Messaging.Configuration
 {
     public class InvalidConfigurationException : Exception
     {

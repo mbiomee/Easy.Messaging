@@ -1,6 +1,6 @@
 using System;
 
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     public class Message
     {
