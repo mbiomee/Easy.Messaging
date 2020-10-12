@@ -1,4 +1,6 @@
 # Easy.Messaging library
+![Nuget](https://img.shields.io/nuget/v/Easy.Messaging?style=plastic)
+
 This library contains helper-classes for working with message brokers . It contains the following items:
 
 - The base-classes for Commands and Events.
