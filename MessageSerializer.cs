@@ -3,7 +3,7 @@ using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 
-namespace Biomee.Infra.Messaging
+namespace Easy.Messaging
 {
     
     public static class MessageSerializer
