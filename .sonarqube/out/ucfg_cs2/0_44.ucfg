@@ -1,46 +1,0 @@
-
-mEasy.Messaging.RabbitMQMessageHandler.Consumer_Received(object, RabbitMQ.Client.Events.BasicDeliverEventArgs)U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs] ](,"0*­
-0U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs_ _($È
-Å
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs_ _(%*
-%0$System.Threading.Tasks.Task<TResult>"_Easy.Messaging.RabbitMQMessageHandler.HandleEvent(RabbitMQ.Client.Events.BasicDeliverEventArgs)*)'
-%Easy.Messaging.RabbitMQMessageHandler*4
-2
-ea,RabbitMQ.Client.Events.BasicDeliverEventArgs*
-1
-2*ò
-1U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csa a(5Í
-Ê
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csa a(
-%1RabbitMQ.Client.IModel"__id*M*K'
-%Easy.Messaging.RabbitMQMessageHandler" 
-_modelRabbitMQ.Client.IModelÛ
-Ø
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csa  a(.
-%2ulong"<RabbitMQ.Client.Events.BasicDeliverEventArgs.DeliveryTag.get*4
-2
-ea,RabbitMQ.Client.Events.BasicDeliverEventArgsâß
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csa a(6
-
-%3void",RabbitMQ.Client.IModel.BasicAck(ulong, bool)*
-
-%1RabbitMQ.Client.IModel*
-
-%2ulong*
-""2BasicAck(ulong, bool)*
-2*È
-2U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csc	 c(	"l
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csc c(	
-implicit return:
-senderobject:2
-ea,RabbitMQ.Client.Events.BasicDeliverEventArgsB)'
-%Easy.Messaging.RabbitMQMessageHandler

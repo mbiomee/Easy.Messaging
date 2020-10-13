@@ -1,7 +1,0 @@
-organization=mbiomee
-projectKey=easy_messaging
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.13243
-dashboardUrl=https://sonarcloud.io/dashboard?id=easy_messaging
-ceTaskId=AXUgp0Gl5lHq14t_7JQ5
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXUgp0Gl5lHq14t_7JQ5

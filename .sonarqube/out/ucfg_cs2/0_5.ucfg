@@ -1,45 +1,0 @@
-
-eEasy.Messaging.RabbitMQMessagePublisher.RabbitMQMessagePublisher(string, string, string, string, int)W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs ('"1*a
-1W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs!	 !(	*
-0*Ó
-0W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs (R™ß
-W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs (.(
-%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ø
-º
-W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs (#
-
-%1void")System.Collections.Generic.List<T>.List()**
-(
-%0"System.Collections.Generic.List<T>õ
-ò
-W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs (S
-
-%2void"çEasy.Messaging.RabbitMQMessagePublisher.RabbitMQMessagePublisher(System.Collections.Generic.IEnumerable<string>, string, string, string, int)*+)
-'Easy.Messaging.RabbitMQMessagePublisher**
-(
-%0"System.Collections.Generic.List<T>*
-
-usernamestring*
-
-passwordstring*
-
-exchangestring*
-""*
-2*Ã
-2W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs!	 !(	"n
-W
-MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs! !(	
-implicit return:
-hoststring:
-usernamestring:
-passwordstring:
-exchangestring:
-portintB+)
-'Easy.Messaging.RabbitMQMessagePublisher

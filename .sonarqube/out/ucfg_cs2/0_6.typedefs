@@ -1,10 +1,0 @@
-â
-%Easy.Messaging.RabbitMQMessageHandlerobject¶
-FRabbitMQMessageHandler(string, string, string, string, string, string)lEasy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(string, string, string, string, string, string)À
-KRabbitMQMessageHandler(string, string, string, string, string, string, int)qEasy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(string, string, string, string, string, string, int)‡
-nRabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string)”Easy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string)‘
-sRabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string, int)™Easy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string, int)„
--Start(Easy.Messaging.IMessageHandlerCallback)SEasy.Messaging.RabbitMQMessageHandler.Start(Easy.Messaging.IMessageHandlerCallback)6
-Stop(),Easy.Messaging.RabbitMQMessageHandler.Stop()¸
-GConsumer_Received(object, RabbitMQ.Client.Events.BasicDeliverEventArgs)mEasy.Messaging.RabbitMQMessageHandler.Consumer_Received(object, RabbitMQ.Client.Events.BasicDeliverEventArgs)œ
-9HandleEvent(RabbitMQ.Client.Events.BasicDeliverEventArgs)_Easy.Messaging.RabbitMQMessageHandler.HandleEvent(RabbitMQ.Client.Events.BasicDeliverEventArgs)

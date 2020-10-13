@@ -1,213 +1,0 @@
-
-yEasy.Messaging.Configuration.Configuration.GetRabbitMQSettings(Microsoft.Extensions.Configuration.IConfiguration, string)Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs# #(/"0*Â
-0Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs% )('¯
-¬
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs% %(@,
-*Easy.Messaging.Configuration.Configuration"
-_isValidbool"__id*
-""­ª
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs& &(((
-%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>Â
-¿
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs& &(&
-
-%1void")System.Collections.Generic.List<T>.List()**
-(
-%0"System.Collections.Generic.List<T>ð
-í
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs& &((],
-*Easy.Messaging.Configuration.Configuration"-
-_errors"System.Collections.Generic.List<T>"__id**
-(
-%0"System.Collections.Generic.List<T>ÑÎ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs(  ((>>
-%28Microsoft.Extensions.Configuration.IConfigurationSection"DMicrosoft.Extensions.Configuration.IConfiguration.GetSection(string)*=
-;
-config1Microsoft.Extensions.Configuration.IConfiguration*
-
-sectionNamestring2GetSection(string)ò
-ï
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs( ((>I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSection"__id*@
->
-%28Microsoft.Extensions.Configuration.IConfigurationSectionõ
-ò
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs) )('
-
-%3bool"{Microsoft.Extensions.Configuration.ConfigurationExtensions.Exists(Microsoft.Extensions.Configuration.IConfigurationSection)*>"<
-:Microsoft.Extensions.Configuration.ConfigurationExtensions*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSection*
-1
-2*•
-1Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs+ +(_˜
-•
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs+8 +(m
-%4string"__concat*
-""*
-
-sectionNamestring
-Œ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs+8 +(m
-%5string"__concat*
-
-%4string*
-""ÝÚ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs+ +(n@
-%6:Easy.Messaging.Configuration.InvalidConfigurationException":Easy.Messaging.Configuration.InvalidConfigurationException¡
-ž
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs+ +(7
-
-%7void"`Easy.Messaging.Configuration.InvalidConfigurationException.InvalidConfigurationException(string)*B
-@
-%6:Easy.Messaging.Configuration.InvalidConfigurationException*
-
-%5string*
-3*ž
-2Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs/ 4(0Ü
-Ù
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs/ /((
-
-%8void"rEasy.Messaging.Configuration.Configuration.DetermineHost(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSectionÜ
-Ù
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs0 0((
-
-%9void"rEasy.Messaging.Configuration.Configuration.DeterminePort(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSectioná
-Þ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs1 1(,
-%10void"vEasy.Messaging.Configuration.Configuration.DetermineUsername(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSectioná
-Þ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs2 2(,
-%11void"vEasy.Messaging.Configuration.Configuration.DeterminePassword(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSectioná
-Þ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs3 3(,
-%12void"vEasy.Messaging.Configuration.Configuration.DetermineExchange(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSectionÊ
-Ç
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs4 4(0
-%13bool""string.operator ==(string, string)*
-"
-string*
-
-sectionNamestring*
-RabbitMQHandler*
-4
-5*«
-4Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs6 7(1Þ
-Û
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs6 6(-
-%14void"sEasy.Messaging.Configuration.Configuration.DetermineQueue(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSectionã
-à
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs7 7(2
-%15void"xEasy.Messaging.Configuration.Configuration.DetermineRoutingKey(Microsoft.Extensions.Configuration.IConfigurationSection)*.",
-*Easy.Messaging.Configuration.Configuration*K
-I
-configSection8Microsoft.Extensions.Configuration.IConfigurationSection*
-5*Ü
-5Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs; ;(s
-q
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs; ;(
-%16"__id*
-""*
-6
-3*Å
-6Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs= ?(Oœ™
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs=# =(W 
-%17System.Text.StringBuilder"System.Text.StringBuilderæ
-ã
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs=' =(4
-%18void"/System.Text.StringBuilder.StringBuilder(string)*"
- 
-%17System.Text.StringBuilder*#!
-Invalid RabbitMQ configuration:´
-±
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs= =(W)
-errorMessageSystem.Text.StringBuilder"__id*"
- 
-%17System.Text.StringBuilderñ
-î
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs> >()
-%19"System.Collections.Generic.List<T>"__id*_*],
-*Easy.Messaging.Configuration.Configuration"-
-_errors"System.Collections.Generic.List<T>ß
-Ü
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs> >(@
-%20void"<System.Collections.Generic.List<T>.ForEach(System.Action<T>)*+
-)
-%19"System.Collections.Generic.List<T>*
-""Á
-¾
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs?8 ?(O
-%21string"$System.Text.StringBuilder.ToString()*+
-)
-errorMessageSystem.Text.StringBuilderÞÛ
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs? ?(PA
-%22:Easy.Messaging.Configuration.InvalidConfigurationException":Easy.Messaging.Configuration.InvalidConfigurationException¤
-¡
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs? ?(7
-%23void"`Easy.Messaging.Configuration.InvalidConfigurationException.InvalidConfigurationException(string)*C
-A
-%22:Easy.Messaging.Configuration.InvalidConfigurationException*
-
-%21string*
-3*Ò
-3Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.csA	 A(	"q
-Z
-PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.csA A(	
-implicit return:;
-config1Microsoft.Extensions.Configuration.IConfiguration:
-sectionNamestringB.",
-*Easy.Messaging.Configuration.Configuration

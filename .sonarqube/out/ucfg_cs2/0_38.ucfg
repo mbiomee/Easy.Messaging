@@ -1,31 +1,0 @@
-
-2Easy.Messaging.MessageSerializer.Serialize(object)P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs (&"0*Ô
-0P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs (Ið
-í
-P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs6 (I,
-%0&Newtonsoft.Json.JsonSerializerSettings"__id*e*c"
- Easy.Messaging.MessageSerializer"=
-_serializerSettings&Newtonsoft.Json.JsonSerializerSettings¥
-¢
-P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs (J
-%1string"\Newtonsoft.Json.JsonConvert.SerializeObject(object?, Newtonsoft.Json.JsonSerializerSettings)*"
-Newtonsoft.Json.JsonConvert*
-
-valueobject*.
-,
-%0&Newtonsoft.Json.JsonSerializerSettings"b
-P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs (K
-
-%1string*¾
-1P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs	 (	"g
-P
-FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs (	
-implicit return:
-valueobjectB$""
- Easy.Messaging.MessageSerializer

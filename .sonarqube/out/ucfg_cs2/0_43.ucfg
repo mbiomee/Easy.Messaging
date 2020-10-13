@@ -1,42 +1,0 @@
-
-SEasy.Messaging.RabbitMQMessageHandler.Start(Easy.Messaging.IMessageHandlerCallback)U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csA A("0*ì
-0U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csC S(ˆ
-Û
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csC C( ^'
-%Easy.Messaging.RabbitMQMessageHandler"3
-	_callback&Easy.Messaging.IMessageHandlerCallback"__id*4
-2
-callback&Easy.Messaging.IMessageHandlerCallback™
-ß
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csE F($
-%0Polly.PolicyBuilder"!Polly.Policy.Handle<TException>()*"
-Polly.Policy‘
-—
-V
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csE G(é
-%1Polly.Retry.RetryPolicy"çPolly.RetrySyntax.WaitAndRetry(Polly.PolicyBuilder, int, System.Func<int, System.TimeSpan>, System.Action<System.Exception, System.TimeSpan>)*"
-Polly.RetrySyntax*
-
-%0Polly.PolicyBuilder*2	*
-""*
-""¥
-±
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csE S(
-
-%2void"#Polly.Policy.Execute(System.Action)*
-
-%1Polly.Retry.RetryPolicy*
-""*
-1*»
-1U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csT	 T(	"l
-U
-KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csT T(	
-implicit return:2
-callback&Easy.Messaging.IMessageHandlerCallbackB)'
-%Easy.Messaging.RabbitMQMessageHandler

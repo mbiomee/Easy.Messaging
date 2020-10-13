@@ -1,6 +1,0 @@
-¼
-Easy.Messaging.CommandEasy.Messaging.Messageobject-
-	Command() Easy.Messaging.Command.Command()C
-Command(System.Guid)+Easy.Messaging.Command.Command(System.Guid)9
-Command(string)&Easy.Messaging.Command.Command(string)S
-Command(System.Guid, string)3Easy.Messaging.Command.Command(System.Guid, string)

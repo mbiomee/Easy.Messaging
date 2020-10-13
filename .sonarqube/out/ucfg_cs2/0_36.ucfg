@@ -1,36 +1,0 @@
-
-&Easy.Messaging.Message.Message(string)F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs ("1*P
-1F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs	 (	*
-0*±
-0F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs+ (%†
-ƒ
-F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs2 (@
-%0System.Guid"System.Guid.NewGuid()*"
-System.Guidµ
-²
-F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs+ (A
-
-%1void"+Easy.Messaging.Message.Message(System.Guid)*
-Easy.Messaging.Message*
-
-%0System.Guid
-š
-F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (%1
-Easy.Messaging.Message"
-MessageTypestring"__id*
-
-messageTypestring*
-2*ª
-2F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs	 (	"]
-F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (	
-implicit return:
-messageTypestringB
-Easy.Messaging.Message

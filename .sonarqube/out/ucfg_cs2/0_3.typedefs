@@ -1,6 +1,0 @@
-¤
-Easy.Messaging.Messageobject-
-	Message() Easy.Messaging.Message.Message()C
-Message(System.Guid)+Easy.Messaging.Message.Message(System.Guid)9
-Message(string)&Easy.Messaging.Message.Message(string)S
-Message(System.Guid, string)3Easy.Messaging.Message.Message(System.Guid, string)

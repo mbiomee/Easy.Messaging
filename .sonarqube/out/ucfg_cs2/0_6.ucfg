@@ -1,24 +1,0 @@
-
-&Easy.Messaging.Command.Command(string)F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs ("1*P
-1F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs	 (	*
-0*‡
-0F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs+ (=´
-±
-F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs+ (>
-
-%0void"&Easy.Messaging.Message.Message(string)*
-Easy.Messaging.Message*
-
-messageTypestring*
-2*ª
-2F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs	 (	"]
-F
-<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs (	
-implicit return:
-messageTypestringB
-Easy.Messaging.Command
