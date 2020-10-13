@@ -1,5 +1,8 @@
 # Easy.Messaging library
-![Nuget](https://img.shields.io/nuget/v/Easy.Messaging?style=plastic) [![CodeFactor](https://www.codefactor.io/repository/github/mbiomee/easy.messaging/badge)](https://www.codefactor.io/repository/github/mbiomee/easy.messaging)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=easy_messaging)
+
+
+![Nuget](https://img.shields.io/nuget/v/Easy.Messaging?style=plastic) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=easy_messaging&metric=bugs)](https://sonarcloud.io/dashboard?id=easy_messaging) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=easy_messaging&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=easy_messaging) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=easy_messaging&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=easy_messaging) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=easy_messaging&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=easy_messaging) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=easy_messaging&metric=security_rating)](https://sonarcloud.io/dashboard?id=easy_messaging) 
 
 This library contains helper-classes for working with message brokers . It contains the following items:
 
