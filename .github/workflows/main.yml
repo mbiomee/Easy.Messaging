@@ -21,7 +21,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: SonarScanner for .NET Core.
-        uses: mbiomee/nuget-actions@0.1
+        uses: mbiomee/nuget-actions
         with:
           sonarProjectKey: "easy_messaging"
           sonarProjectName:  "Easy.Messaging"
