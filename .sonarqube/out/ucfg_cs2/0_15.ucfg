@@ -1,0 +1,31 @@
+
+¶Easy.Messaging.Configuration.Configuration.UseRabbitMQMessagePublisher(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)Z
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs (6"0*î
+0Z
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs  (>ì
+é
+Z
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs (<
+
+%0void"yEasy.Messaging.Configuration.Configuration.GetRabbitMQSettings(Microsoft.Extensions.Configuration.IConfiguration, string)*.",
+*Easy.Messaging.Configuration.Configuration*=
+;
+config1Microsoft.Extensions.Configuration.IConfiguration*
+RabbitMQPublisher˜
+•
+Z
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs  (?A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÏMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*Ò
+1Z
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs!	 !(	"q
+Z
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.cs! !(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:;
+config1Microsoft.Extensions.Configuration.IConfigurationB.",
+*Easy.Messaging.Configuration.Configuration

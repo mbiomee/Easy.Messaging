@@ -1,0 +1,31 @@
+
+4Easy.Messaging.MessageSerializer.Deserialize(string)P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs! !()"0*…
+0P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs# #(Tð
+í
+P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs#A #(T,
+%0&Newtonsoft.Json.JsonSerializerSettings"__id*e*c"
+ Easy.Messaging.MessageSerializer"=
+_serializerSettings&Newtonsoft.Json.JsonSerializerSettingsÀ
+½
+P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs# #(U"
+%1Newtonsoft.Json.Linq.JObject"aNewtonsoft.Json.JsonConvert.DeserializeObject<T>(string, Newtonsoft.Json.JsonSerializerSettings?)*"
+Newtonsoft.Json.JsonConvert*
+
+valuestring*.
+,
+%0&Newtonsoft.Json.JsonSerializerSettings"x
+P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs# #(V$
+"
+%1Newtonsoft.Json.Linq.JObject*¾
+1P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs$	 $(	"g
+P
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.cs$ $(	
+implicit return:
+valuestringB$""
+ Easy.Messaging.MessageSerializer

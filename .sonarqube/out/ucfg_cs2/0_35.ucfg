@@ -1,0 +1,40 @@
+
++Easy.Messaging.Message.Message(System.Guid)F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs ("1*P
+1F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs	 (	*
+0* 
+0F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (-
+Œ
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (!4
+Easy.Messaging.Message"
+	MessageIdSystem.Guid"__id*
+""Œ
+‰
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs ((
+%0System.Type"object.GetType()*
+Easy.Messaging.Message•
+’
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (-
+%1string"%System.Reflection.MemberInfo.Name.get*
+
+%0System.Type”
+‘
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (-1
+Easy.Messaging.Message"
+MessageTypestring"__id*
+
+%1string*
+2*ª
+2F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs	 (	"]
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.cs (	
+implicit return:
+	messageIdSystem.GuidB
+Easy.Messaging.Message

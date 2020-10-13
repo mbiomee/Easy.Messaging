@@ -1,0 +1,25 @@
+
+SEasy.Messaging.RabbitMQMessagePublisher.PublishMessageAsync(string, object, string)W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csB B('"0*·
+0W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csD K(Ø
+Õ
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csD K(!
+%0System.Threading.Tasks.Task".System.Threading.Tasks.Task.Run(System.Action)*"
+System.Threading.Tasks.Task*
+"""~
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csD K(#
+!
+%0System.Threading.Tasks.Task*Ì
+1W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csL	 L(	"n
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csL L(	
+implicit return:
+messageTypestring:
+messageobject:
+
+routingKeystringB+)
+'Easy.Messaging.RabbitMQMessagePublisher

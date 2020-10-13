@@ -1,0 +1,26 @@
+
+3Easy.Messaging.Command.Command(System.Guid, string)F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs ("1*P
+1F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs	 (	*
+0*œ
+0F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs; (XÉ
+Æ
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs; (Y
+
+%0void"3Easy.Messaging.Message.Message(System.Guid, string)*
+Easy.Messaging.Message*
+""*
+
+messageTypestring*
+2*ª
+2F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs	 (	"]
+F
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.cs (	
+implicit return:
+	messageIdSystem.Guid:
+messageTypestringB
+Easy.Messaging.Command

@@ -1,0 +1,57 @@
+
+,Easy.Messaging.RabbitMQMessageHandler.Stop()U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csV V("0*Œ
+0U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csX Z(Í
+Ê
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csX X(
+%0RabbitMQ.Client.IModel"__id*M*K'
+%Easy.Messaging.RabbitMQMessageHandler" 
+_modelRabbitMQ.Client.IModel³
+°
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csX X(+
+%1string"__id*C*A'
+%Easy.Messaging.RabbitMQMessageHandler"
+_consumerTagstring×Ô
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csX X(,
+
+%2void"*RabbitMQ.Client.IModel.BasicCancel(string)*
+
+%0RabbitMQ.Client.IModel*
+
+%1string2BasicCancel(string)Í
+Ê
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csY Y(
+%3RabbitMQ.Client.IModel"__id*M*K'
+%Easy.Messaging.RabbitMQMessageHandler" 
+_modelRabbitMQ.Client.IModelßÜ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csY Y((
+
+%4void",RabbitMQ.Client.IModel.Close(ushort, string)*
+
+%3RabbitMQ.Client.IModel*2È*	
+Goodbye2Close(ushort, string)Ü
+Ù
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csZ Z(!
+%5RabbitMQ.Client.IConnection"__id*W*U'
+%Easy.Messaging.RabbitMQMessageHandler"*
+_connectionRabbitMQ.Client.IConnection¹¶
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csZ Z(
+
+%6void"#RabbitMQ.Client.IConnection.Close()*#
+!
+%5RabbitMQ.Client.IConnection2Close()*
+1*È
+1U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs[	 [(	"l
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs[ [(	
+implicit returnB)'
+%Easy.Messaging.RabbitMQMessageHandler

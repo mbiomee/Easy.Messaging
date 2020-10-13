@@ -1,0 +1,34 @@
+
+1Easy.Messaging.RabbitMQMessagePublisher.Connect()W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csN N("0*¢
+0W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csP Z(¨
+©
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csP Q($
+%0Polly.PolicyBuilder"!Polly.Policy.Handle<TException>()*"
+Polly.Policy÷
+”
+X
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csP R(é
+%1Polly.Retry.RetryPolicy"çPolly.RetrySyntax.WaitAndRetry(Polly.PolicyBuilder, int, System.Func<int, System.TimeSpan>, System.Action<System.Exception, System.TimeSpan>)*"
+Polly.RetrySyntax*
+
+%0Polly.PolicyBuilder*2	*
+""*
+""∂
+≥
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csP Z(
+
+%2void"#Polly.Policy.Execute(System.Action)*
+
+%1Polly.Retry.RetryPolicy*
+""*
+1*Ã
+1W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs[	 [(	"n
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs[ [(	
+implicit returnB+)
+'Easy.Messaging.RabbitMQMessagePublisher

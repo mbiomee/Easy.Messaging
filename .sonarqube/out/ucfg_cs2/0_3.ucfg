@@ -1,0 +1,40 @@
+
+àEasy.Messaging.RabbitMQMessagePublisher.RabbitMQMessagePublisher(System.Collections.Generic.IEnumerable<string>, string, string, string)W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs# #('"1*a
+1W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs&	 &(	*
+0*˙
+0W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs$ $(Do
+m
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs$8 $(D
+%0"__id*
+""•
+¢
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs$ $(E
+
+%1void"çEasy.Messaging.RabbitMQMessagePublisher.RabbitMQMessagePublisher(System.Collections.Generic.IEnumerable<string>, string, string, string, int)*+)
+'Easy.Messaging.RabbitMQMessagePublisher*4
+2
+hosts)System.Collections.Generic.IEnumerable<T>*
+
+usernamestring*
+
+passwordstring*
+
+exchangestring*
+
+%0*
+2*Ã
+2W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs&	 &(	"n
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs& &(	
+implicit return:2
+hosts)System.Collections.Generic.IEnumerable<T>:
+usernamestring:
+passwordstring:
+exchangestringB+)
+'Easy.Messaging.RabbitMQMessagePublisher

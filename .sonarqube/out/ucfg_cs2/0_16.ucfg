@@ -1,0 +1,62 @@
+
+1Easy.Messaging.RabbitMQMessagePublisher.Dispose()W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs] ]("0*¸
+0W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs_ _(Ñ
+Î
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs_ _(
+%0RabbitMQ.Client.IModel"__id*O*M)
+'Easy.Messaging.RabbitMQMessagePublisher" 
+_modelRabbitMQ.Client.IModel*
+1
+2*•
+2W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs_ _(±®
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs_ _(
+
+%1void"System.IDisposable.Dispose()*
+
+%0RabbitMQ.Client.IModel2	Dispose()*
+1*ƒ
+1W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs` a(¹
+¶
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs` `(M)
+'Easy.Messaging.RabbitMQMessagePublisher" 
+_modelRabbitMQ.Client.IModel"__id*
+""à
+Ý
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csa a(!
+%2RabbitMQ.Client.IConnection"__id*Y*W)
+'Easy.Messaging.RabbitMQMessagePublisher"*
+_connectionRabbitMQ.Client.IConnection*
+3
+4*š
+4W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csa a( ¶³
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csa a("
+
+%3void"System.IDisposable.Dispose()*#
+!
+%2RabbitMQ.Client.IConnection2	Dispose()*
+3*§
+3W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csb b(Ã
+À
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csb b(W)
+'Easy.Messaging.RabbitMQMessagePublisher"*
+_connectionRabbitMQ.Client.IConnection"__id*
+""*
+5*Ì
+5W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csc	 c(	"n
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csc c(	
+implicit returnB+)
+'Easy.Messaging.RabbitMQMessagePublisher

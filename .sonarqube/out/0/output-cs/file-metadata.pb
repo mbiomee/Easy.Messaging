@@ -1,0 +1,14 @@
+E
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Command.csutf-8Y
+PC:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\Configuration.csutf-8i
+`C:\Users\Mohamed\Desktop\projects\infra-messaging\Configuration\InvalidConfigurationException.csutf-8C
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.csutf-8M
+DC:\Users\Mohamed\Desktop\projects\infra-messaging\IMessageHandler.csutf-8U
+LC:\Users\Mohamed\Desktop\projects\infra-messaging\IMessageHandlerCallback.csutf-8O
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\IMessagePublisher.csutf-8E
+<C:\Users\Mohamed\Desktop\projects\infra-messaging\Message.csutf-8O
+FC:\Users\Mohamed\Desktop\projects\infra-messaging\MessageSerializer.csutf-8T
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csutf-8V
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.csutf-8…
+zC:\Users\Mohamed\Desktop\projects\infra-messaging\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8u
+jC:\Users\Mohamed\Desktop\projects\infra-messaging\obj\Debug\netstandard2.1\Infra.Messaging.AssemblyInfo.csutf-8

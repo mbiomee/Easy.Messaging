@@ -1,0 +1,26 @@
+
+/Easy.Messaging.Event.Event(System.Guid, string)D
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.cs ("1*N
+1D
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.cs	 (	*
+0*˜
+0D
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.cs9 (VÇ
+Ä
+D
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.cs9 (W
+
+%0void"3Easy.Messaging.Message.Message(System.Guid, string)*
+Easy.Messaging.Message*
+""*
+
+messageTypestring*
+2*¦
+2D
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.cs	 (	"[
+D
+:C:\Users\Mohamed\Desktop\projects\infra-messaging\Event.cs (	
+implicit return:
+	messageIdSystem.Guid:
+messageTypestringB
+Easy.Messaging.Event

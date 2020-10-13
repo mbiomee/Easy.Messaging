@@ -1,0 +1,6 @@
+Ì
+:Easy.Messaging.Configuration.InvalidConfigurationExceptionSystem.Exceptionobject}
+InvalidConfigurationException()ZEasy.Messaging.Configuration.InvalidConfigurationException.InvalidConfigurationException()‰
+%InvalidConfigurationException(string)`Easy.Messaging.Configuration.InvalidConfigurationException.InvalidConfigurationException(string)­
+7InvalidConfigurationException(string, System.Exception)rEasy.Messaging.Configuration.InvalidConfigurationException.InvalidConfigurationException(string, System.Exception)¸
+|InvalidConfigurationException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)·Easy.Messaging.Configuration.InvalidConfigurationException.InvalidConfigurationException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)

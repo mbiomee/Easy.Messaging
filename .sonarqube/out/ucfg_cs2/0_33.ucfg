@@ -1,0 +1,48 @@
+
+”Easy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string)U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs& &(%"1*_
+1U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs)	 )(	*
+0*­
+0U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs' '([m
+k
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs'O '([
+%0"__id*
+""Ü
+Ù
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs' '(\
+
+%1void"™Easy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string, int)*)'
+%Easy.Messaging.RabbitMQMessageHandler*4
+2
+hosts)System.Collections.Generic.IEnumerable<T>*
+
+usernamestring*
+
+passwordstring*
+
+exchangestring*
+
+	queuenamestring*
+
+
+routingKeystring*
+
+%0*
+2*È
+2U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs)	 )(	"l
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs) )(	
+implicit return:2
+hosts)System.Collections.Generic.IEnumerable<T>:
+usernamestring:
+passwordstring:
+exchangestring:
+	queuenamestring:
+
+routingKeystringB)'
+%Easy.Messaging.RabbitMQMessageHandler

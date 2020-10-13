@@ -9,12 +9,18 @@
     <Description>Infrastructure package for distrbuted application that contains helpers for interacting with RabbitMq and Kafka message-brokers</Description>
     <Authors>Mostafa Biomee</Authors>
     <PackageProjectUrl>https://github.com/mbiomee/Easy.Messaging/tree/master</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mbiomee/Easy.Messaging</RepositoryUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <CodeAnalysisRuleSet>.sonarlint\easy_messagingcsharp.ruleset</CodeAnalysisRuleSet>
     
   </PropertyGroup>
+
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.5"/>
-    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.5"/>
+    <AdditionalFiles Include=".sonarlint\easy_messaging\CSharp\SonarLint.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.5" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="RabbitMQ.Client" Version="6.1.0" />
     <PackageReference Include="Polly" Version="7.2.1" />

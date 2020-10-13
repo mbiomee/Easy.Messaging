@@ -1,0 +1,313 @@
+
+ôEasy.Messaging.RabbitMQMessageHandler.RabbitMQMessageHandler(System.Collections.Generic.IEnumerable<string>, string, string, string, string, string, int)U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs+ +(%"1*_
+1U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs?	 ?(	*
+0*Ä<
+0U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs- >(1®•
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs- -(,(
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ú
+ô
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs- -(%
+
+%1void"RSystem.Collections.Generic.List<T>.List(System.Collections.Generic.IEnumerable<T>)**
+(
+%0"System.Collections.Generic.List<T>*4
+2
+hosts)System.Collections.Generic.IEnumerable<T>Â
+‚
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs- -(,W'
+%Easy.Messaging.RabbitMQMessageHandler",
+_hosts"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>°
+û
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs. .(7'
+%Easy.Messaging.RabbitMQMessageHandler"
+_portint"__id*
+""∂
+≥
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs/ /( >'
+%Easy.Messaging.RabbitMQMessageHandler"
+	_usernamestring"__id*
+
+usernamestring∂
+≥
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs0 0( >'
+%Easy.Messaging.RabbitMQMessageHandler"
+	_passwordstring"__id*
+
+passwordstring∂
+≥
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs1 1( >'
+%Easy.Messaging.RabbitMQMessageHandler"
+	_exchangestring"__id*
+
+exchangestring∏
+µ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs2 2("?'
+%Easy.Messaging.RabbitMQMessageHandler"
+
+_queuenamestring"__id*
+
+	queuenamestring∫
+∑
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs3 3($@'
+%Easy.Messaging.RabbitMQMessageHandler"
+_routingKeystring"__id*
+
+
+routingKeystringñì
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs5 5(0
+%2System.Text.StringBuilder"System.Text.StringBuilder¥
+±
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs5! 5(.
+
+%3void")System.Text.StringBuilder.StringBuilder()*!
+
+%2System.Text.StringBuilder¨
+©
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs5 5(0'
+
+logMessageSystem.Text.StringBuilder"__id*!
+
+%2System.Text.StringBuilderê
+ç
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs6 6([
+%4System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*:8
+6Create RabbitMQ message-handler instance using config:Â
+‚
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs7@ 7(F(
+%5"System.Collections.Generic.List<T>"__id*Y*W'
+%Easy.Messaging.RabbitMQMessageHandler",
+_hosts"System.Collections.Generic.List<T>ƒ
+¡
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs7@ 7(P
+%6string[]",System.Collections.Generic.List<T>.ToArray()**
+(
+%5"System.Collections.Generic.List<T>≥
+∞
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs7/ 7(Q
+%7string"$string.Join(string, params string[])*
+"
+string*
+,*
+
+%6string[]ä
+á
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs7" 7(S
+%8string"__concat*
+""*
+
+%7string‰
+·
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs7 7(T
+%9System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%8stringn
+l
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs8. 8(3
+%10"__id*
+""{
+y
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs8" 8(5
+%11"__concat*
+""*
+
+%10ﬁ
+€
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs8 8(6 
+%12System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%11±
+Æ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs92 9(;
+%13string"__id*@*>'
+%Easy.Messaging.RabbitMQMessageHandler"
+	_usernamestringå
+â
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs9" 9(=
+%14string"__concat*
+""*
+
+%13stringÊ
+„
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs9 9(> 
+%15System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%14string±
+Æ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs:B :(K
+%16string"__id*@*>'
+%Easy.Messaging.RabbitMQMessageHandler"
+	_passwordstringä
+á
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs:B :(R
+
+%17int"string.Length.get*
+
+%16stringpn
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs:2 :(S
+%18string"string®
+•
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs:6 :(<
+%19void"string.String(char, int)*
+
+%18string*
+""*
+
+
+%17intå
+â
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs:" :(U
+%20string"__concat*
+""*
+
+%18stringÊ
+„
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs: :(V 
+%21System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%20string±
+Æ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs;2 ;(;
+%22string"__id*@*>'
+%Easy.Messaging.RabbitMQMessageHandler"
+	_exchangestringå
+â
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs;" ;(=
+%23string"__concat*
+""*
+
+%22stringÊ
+„
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs; ;(> 
+%24System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%23string≤
+Ø
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs</ <(9
+%25string"__id*A*?'
+%Easy.Messaging.RabbitMQMessageHandler"
+
+_queuenamestringå
+â
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs<" <(;
+%26string"__concat*
+""*
+
+%25stringÊ
+„
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs< <(< 
+%27System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%26string≥
+∞
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs=0 =(;
+%28string"__id*B*@'
+%Easy.Messaging.RabbitMQMessageHandler"
+_routingKeystringå
+â
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs= =(=
+%29string"__concat*
+""*
+
+%28string‚
+ﬂ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs= =(> 
+%30System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%29string∫
+∑
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs> >(1
+%31string"$System.Text.StringBuilder.ToString()*)
+'
+
+logMessageSystem.Text.StringBuilder™
+ß
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs> >(2
+%32void"Serilog.Log.Information(string)*"
+Serilog.Log*
+
+%31string*
+2*»
+2U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs?	 ?(	"l
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cs? ?(	
+implicit return:2
+hosts)System.Collections.Generic.IEnumerable<T>:
+usernamestring:
+passwordstring:
+exchangestring:
+	queuenamestring:
+
+routingKeystring:
+portintB)'
+%Easy.Messaging.RabbitMQMessageHandler

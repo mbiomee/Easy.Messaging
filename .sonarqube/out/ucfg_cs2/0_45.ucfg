@@ -1,0 +1,103 @@
+
+_Easy.Messaging.RabbitMQMessageHandler.HandleEvent(RabbitMQ.Client.Events.BasicDeliverEventArgs)U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cse e(&"0*Œ
+0U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csh n(A¯
+¬
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csh! h(.
+%0System.Text.Encoding"System.Text.Encoding.UTF8.get*"
+System.Text.Encodingú
+÷
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cshA h(S&
+%1 RabbitMQ.Client.IBasicProperties"@RabbitMQ.Client.Events.BasicDeliverEventArgs.BasicProperties.get*4
+2
+ea,RabbitMQ.Client.Events.BasicDeliverEventArgsûø
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cshA h([:
+%24System.Collections.Generic.IDictionary<TKey, TValue>",RabbitMQ.Client.IBasicProperties.Headers.get*(
+&
+%1 RabbitMQ.Client.IBasicProperties2Headers.getÁ
+¾
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cshA h(j
+%3object"__mapGet*<
+:
+%24System.Collections.Generic.IDictionary<TKey, TValue>*
+MessageTypeu
+s
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csh9 h(j
+%4"__id*
+
+%3objectÉÆ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csh! h(k
+%5string"&System.Text.Encoding.GetString(byte[])*
+
+%0System.Text.Encoding*
+
+%42GetString(byte[])‡
+„
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csh h(k
+messageTypestring"__id*
+
+%5string¯
+¬
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csk k('
+%6System.Text.Encoding"System.Text.Encoding.UTF8.get*"
+System.Text.Encodingç
+ä
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csk2 k(9
+%7System.ReadOnlyMemory<T>"5RabbitMQ.Client.Events.BasicDeliverEventArgs.Body.get*4
+2
+ea,RabbitMQ.Client.Events.BasicDeliverEventArgs®
+«
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csk2 k(C
+%8byte[]""System.ReadOnlyMemory<T>.ToArray()* 
+
+%7System.ReadOnlyMemory<T>ÑÎ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csk k(D
+%9string"&System.Text.Encoding.GetString(byte[])*
+
+%6System.Text.Encoding*
+
+%8byte[]2GetString(byte[])
+}
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csk k(D
+bodystring"__id*
+
+%9stringñ
+î
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csn n(-
+%10&Easy.Messaging.IMessageHandlerCallback"__id*`*^'
+%Easy.Messaging.RabbitMQMessageHandler"3
+	_callback&Easy.Messaging.IMessageHandlerCallbackÒÏ
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csn n(B+
+%11$System.Threading.Tasks.Task<TResult>"IEasy.Messaging.IMessageHandlerCallback.HandleMessageAsync(string, string)*/
+-
+%10&Easy.Messaging.IMessageHandlerCallback*
+
+messageTypestring*
+
+bodystring2"HandleMessageAsync(string, string)"†
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.csn n(C-
++
+%11$System.Threading.Tasks.Task<TResult>*È
+1U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cso	 o(	"l
+U
+KC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessageHandler.cso o(	
+implicit return:2
+ea,RabbitMQ.Client.Events.BasicDeliverEventArgsB)'
+%Easy.Messaging.RabbitMQMessageHandler

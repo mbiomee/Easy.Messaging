@@ -1,0 +1,254 @@
+
+çEasy.Messaging.RabbitMQMessagePublisher.RabbitMQMessagePublisher(System.Collections.Generic.IEnumerable<string>, string, string, string, int)W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs( (('"1*a
+1W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs:	 :(	*
+0*—2
+0W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs* 9(™ß
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs* *(,(
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>û
+õ
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs* *(%
+
+%1void"RSystem.Collections.Generic.List<T>.List(System.Collections.Generic.IEnumerable<T>)**
+(
+%0"System.Collections.Generic.List<T>*4
+2
+hosts)System.Collections.Generic.IEnumerable<T>È
+Ê
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs* *(,Y)
+'Easy.Messaging.RabbitMQMessagePublisher",
+_hosts"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>•
+¢
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs+ +(9)
+'Easy.Messaging.RabbitMQMessagePublisher"
+_portint"__id*
+""∫
+∑
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs, ,( @)
+'Easy.Messaging.RabbitMQMessagePublisher"
+	_usernamestring"__id*
+
+usernamestring∫
+∑
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs- -( @)
+'Easy.Messaging.RabbitMQMessagePublisher"
+	_passwordstring"__id*
+
+passwordstring∫
+∑
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs. .( @)
+'Easy.Messaging.RabbitMQMessagePublisher"
+	_exchangestring"__id*
+
+exchangestringòï
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs0 0(0
+%2System.Text.StringBuilder"System.Text.StringBuilder∂
+≥
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs0! 0(.
+
+%3void")System.Text.StringBuilder.StringBuilder()*!
+
+%2System.Text.StringBuilderÆ
+´
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs0 0(0'
+
+logMessageSystem.Text.StringBuilder"__id*!
+
+%2System.Text.StringBuilderî
+ë
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs1 1(]
+%4System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*<:
+8Create RabbitMQ message-publisher instance using config:È
+Ê
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs2@ 2(F(
+%5"System.Collections.Generic.List<T>"__id*[*Y)
+'Easy.Messaging.RabbitMQMessagePublisher",
+_hosts"System.Collections.Generic.List<T>∆
+√
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs2@ 2(P
+%6string[]",System.Collections.Generic.List<T>.ToArray()**
+(
+%5"System.Collections.Generic.List<T>µ
+≤
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs2/ 2(Q
+%7string"$string.Join(string, params string[])*
+"
+string*
+,*
+
+%6string[]å
+â
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs2" 2(S
+%8string"__concat*
+""*
+
+%7stringÊ
+„
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs2 2(T
+%9System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%8stringp
+n
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs3. 3(3
+%10"__id*
+""}
+{
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs3" 3(5
+%11"__concat*
+""*
+
+%10‡
+›
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs3 3(6 
+%12System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%11µ
+≤
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs42 4(;
+%13string"__id*B*@)
+'Easy.Messaging.RabbitMQMessagePublisher"
+	_usernamestringé
+ã
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs4" 4(=
+%14string"__concat*
+""*
+
+%13stringË
+Â
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs4 4(> 
+%15System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%14stringµ
+≤
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs5B 5(K
+%16string"__id*B*@)
+'Easy.Messaging.RabbitMQMessagePublisher"
+	_passwordstringå
+â
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs5B 5(R
+
+%17int"string.Length.get*
+
+%16stringrp
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs52 5(S
+%18string"string™
+ß
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs56 5(<
+%19void"string.String(char, int)*
+
+%18string*
+""*
+
+
+%17inté
+ã
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs5" 5(U
+%20string"__concat*
+""*
+
+%18stringË
+Â
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs5 5(V 
+%21System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%20stringµ
+≤
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs6. 6(7
+%22string"__id*B*@)
+'Easy.Messaging.RabbitMQMessagePublisher"
+	_exchangestringé
+ã
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs6 6(9
+%23string"__concat*
+""*
+
+%22string‰
+·
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs6 6(: 
+%24System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*)
+'
+
+logMessageSystem.Text.StringBuilder*
+
+%23stringº
+π
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs7 7(1
+%25string"$System.Text.StringBuilder.ToString()*)
+'
+
+logMessageSystem.Text.StringBuilder¨
+©
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs7 7(2
+%26void"Serilog.Log.Information(string)*"
+Serilog.Log*
+
+%25string…
+∆
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs9 9(
+%27void"1Easy.Messaging.RabbitMQMessagePublisher.Connect()*+)
+'Easy.Messaging.RabbitMQMessagePublisher*
+2*Ã
+2W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs:	 :(	"n
+W
+MC:\Users\Mohamed\Desktop\projects\infra-messaging\RabbitMQMessagePublisher.cs: :(	
+implicit return:2
+hosts)System.Collections.Generic.IEnumerable<T>:
+usernamestring:
+passwordstring:
+exchangestring:
+portintB+)
+'Easy.Messaging.RabbitMQMessagePublisher
